@@ -1,0 +1,20 @@
+.header-section{
+	padding-top: 35%;
+	text-align: center;
+}
+.title1{
+	padding-bottom: 3%;
+	font-size: 7vw;
+	line-height: 1vw;
+	font-weight: 500;
+}
+.title2{
+	padding-top: 2%;
+	font-size: 7vw;
+	font-weight: 400;
+	color: slateblue;
+}
+
+.header-details{
+	padding: 5%;
+}
